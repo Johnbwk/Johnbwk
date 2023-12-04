@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in scripting with PowerShell, tasks automation, coding and infrastructure deployment.
+- 👀 I’m interested in scripting with PowerShell, automation, coding and infrastructure deployment.
 - 🌱 I’m currently learning JAVA, python, HTML, JS and CSS.
 
 <!---
